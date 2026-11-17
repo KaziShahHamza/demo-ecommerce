@@ -23,3 +23,7 @@ repository and use the configured contributor workflow for validation.
 1. Create a feature branch from `main`.
 2. Commit your changes and push the branch.
 3. Open a Pull Request targeting `main`.
+
+
+## License
+- MIT
